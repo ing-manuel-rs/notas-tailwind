@@ -1,2 +1,2 @@
 # notas-tailwind
-Notas de tailwind css
+Notas de tailwind css hechas en obsidian
