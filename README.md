@@ -1,2 +1,3 @@
-# notas-tailwind
-Notas de tailwind css hechas en obsidian
+# **Notas de Tailwind CSS**
+
+En este repositorio se encuentran notas de Tailwind CSS
